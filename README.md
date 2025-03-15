@@ -1,35 +1,45 @@
-# 📌 Introdução ao Python
+# 📌 Atividades de Matemática Aplicada e Python
 
-Este repositório contém uma atividade introdutória à linguagem Python, abordando conceitos fundamentais como tipos de dados, entrada e saída de informações e operações matemáticas básicas.
+Este repositório contém atividades relacionadas à matemática aplicada e sua implementação em Python, abordando conceitos fundamentais como tipos de dados, operações matemáticas e manipulação de conjuntos numéricos.
 
-## 📝 Conteúdo da Atividade
+## 📝 Conteúdo das Atividades
 
-A atividade está dividida em quatro partes principais:
+### 1️⃣ Introdução ao Python
 
-1. **Tipos de Dados Primitivos**
-   - Inteiro (`int`)
-   - Ponto flutuante (`float`)
-   - Booleano (`bool`)
-   - String (`str`)
+Nesta atividade, você aprenderá sobre os conceitos básicos da programação em Python:
 
-2. **Entrada e Saída de Dados**
-   - Uso das funções `input()` e `print()`
+- **Tipos de Dados Primitivos:** `int`, `float`, `bool`, `str`
+- **Entrada e Saída de Dados:** Uso das funções `input()` e `print()`
+- **Operações Matemáticas:** Adição (`+`), Subtração (`-`), Multiplicação (`*`), Divisão (`/`)
+- **Desafio Final:** Implementação de uma calculadora simples
 
-3. **Operações Matemáticas Básicas**
-   - Adição (`+`), Subtração (`-`), Multiplicação (`*`), Divisão (`/`)
+### 2️⃣ Conjuntos Numéricos e Manipulação em Python
 
-4. **Desafio Final - Calculadora Simples**
-   - Criar um programa que permita ao usuário escolher uma operação matemática e executá-la.
+Aqui exploramos os conjuntos numéricos e como manipulá-los utilizando Python:
+
+- **Principais Conjuntos Numéricos:**
+  - Naturais (ℕ), Inteiros (ℤ), Racionais (ℚ), Reais (ℝ) e Complexos (ℂ)
+- **Operações com Conjuntos:**
+  - União, Interseção, Diferença e Diferença Simétrica
+- **Manipulação de Conjuntos em Python**
+- **Organização e Tratamento de Dados Numéricos**
 
 ## 📂 Estrutura do Repositório
 
 ```plaintext
 /
 ├── atividades/
-│   ├── atividade_1_tipos_de_dados.py
-│   ├── atividade_2_entrada_saida.py
-│   ├── atividade_3_operacoes_matematicas.py
-│   ├── desafio_calculadora.py
+│   ├── introducao_python/
+│   │   ├── atividade_1_tipos_de_dados.py
+│   │   ├── atividade_2_entrada_saida.py
+│   │   ├── atividade_3_operacoes_matematicas.py
+│   │   ├── desafio_calculadora.py
+│   │
+│   ├── conjuntos_numericos/
+│   │   ├── atividade_1_conceitos_basicos.py
+│   │   ├── atividade_2_operacoes_conjuntos.py
+│   │   ├── atividade_3_manipulacao_conjuntos.py
+│   │   ├── atividade_4_tratamento_dados.py
 │
 ├── README.md  # Você está aqui
 └── requisitos.txt  # Dependências (se necessário)
@@ -45,7 +55,7 @@ A atividade está dividida em quatro partes principais:
 
 2. **Execute os scripts Python**
    ```bash
-   python atividades/atividade_1_tipos_de_dados.py
+   python atividades/introducao_python/atividade_1_tipos_de_dados.py
    ```
 
 ## 🎯 Objetivo
@@ -61,7 +71,6 @@ Este material foi desenvolvido para auxiliar alunos do Curso Superior Tecnólogo
 
 ## 📬 Contato
 Caso tenha sugestões ou dúvidas, sinta-se à vontade para contribuir ou entrar em contato!
-[whats](https://www.google.com/search?q=ujeverson&sca_esv=b3186c678ba64ba8&sxsrf=AHTn8zrpUl0AeUXTqfeoeAvnOd0Lod4B3A%3A1741999934359&source=hp&ei=Ps_UZ9G9E4zO1sQPpNK24AQ&iflsig=ACkRmUkAAAAAZ9TdTmK9dnWdatCOeoWINAefZUNCEEJL&ved=0ahUKEwjR1KK674qMAxUMp5UCHSSpDUwQ4dUDCBg&uact=5&oq=ujeverson&gs_lp=Egdnd3Mtd2l6Igl1amV2ZXJzb24yBBAjGCcyBRAAGIAEMgUQABiABDIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYogQYiQVInwxQAFiNB3AAeACQAQCYAZgBoAGBCaoBAzAuObgBA8gBAPgBAZgCCaACmQnCAgoQIxiABBgnGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgUQLhiABMICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICCxAuGIAEGLEDGIMBwgIHEAAYgAQYCsICBxAuGIAEGArCAgcQABiABBgTwgIHEC4YgAQYE8ICDRAuGIAEGBMYxwEYrwHCAgoQABiABBgKGMsBwgIIEAAYgAQYywHCAgYQABgKGB7CAgYQABgFGB7CAggQABgFGAoYHsICBRAAGO8FmAMAkgcDMC45oAfTSA&sclient=gws-wiz)
 
 ---
 🚀 _Bons estudos e boa programação!_ 🐍

@@ -6,7 +6,7 @@ Este repositório contém uma atividade introdutória à linguagem Python, abord
 
 A atividade está dividida em quatro partes principais:
 
-1. **Tipos de Dados Primitivos**
+1. **Tipos de Dados Primitivos** [Acesse o pdf da atividade](https://github.com/Ujeverson/atividadesPythonGTI/blob/main/PDFs/Atividade%20-%20Introdu%C3%A7%C3%A3o%20ao%20Python.pdf)
    - Inteiro (`int`)
    - Ponto flutuante (`float`)
    - Booleano (`bool`)

@@ -61,7 +61,7 @@ Este material foi desenvolvido para auxiliar alunos do Curso Superior Tecnólogo
 
 ## 📬 Contato
 Caso tenha sugestões ou dúvidas, sinta-se à vontade para contribuir ou entrar em contato!
-[whats](www.ujeverson.com.br)
+[whats](https://www.google.com/search?q=ujeverson&sca_esv=b3186c678ba64ba8&sxsrf=AHTn8zrpUl0AeUXTqfeoeAvnOd0Lod4B3A%3A1741999934359&source=hp&ei=Ps_UZ9G9E4zO1sQPpNK24AQ&iflsig=ACkRmUkAAAAAZ9TdTmK9dnWdatCOeoWINAefZUNCEEJL&ved=0ahUKEwjR1KK674qMAxUMp5UCHSSpDUwQ4dUDCBg&uact=5&oq=ujeverson&gs_lp=Egdnd3Mtd2l6Igl1amV2ZXJzb24yBBAjGCcyBRAAGIAEMgUQABiABDIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYogQYiQVInwxQAFiNB3AAeACQAQCYAZgBoAGBCaoBAzAuObgBA8gBAPgBAZgCCaACmQnCAgoQIxiABBgnGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgUQLhiABMICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICCxAuGIAEGLEDGIMBwgIHEAAYgAQYCsICBxAuGIAEGArCAgcQABiABBgTwgIHEC4YgAQYE8ICDRAuGIAEGBMYxwEYrwHCAgoQABiABBgKGMsBwgIIEAAYgAQYywHCAgYQABgKGB7CAgYQABgFGB7CAggQABgFGAoYHsICBRAAGO8FmAMAkgcDMC45oAfTSA&sclient=gws-wiz)
 
 ---
 🚀 _Bons estudos e boa programação!_ 🐍

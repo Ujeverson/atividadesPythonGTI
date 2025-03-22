@@ -4,7 +4,7 @@ Este repositório contém atividades relacionadas à matemática aplicada e sua 
 
 ## 📝 Conteúdo das Atividades
 
-### 1️⃣ Introdução ao Python [PDF](https://github.com/Ujeverson/atividadesPythonGTI/blob/main/PDFs/Atividade%20-%20Introdu%C3%A7%C3%A3o%20ao%20Python.pdf)
+### 1️⃣ Introdução ao Python
 
 Nesta atividade, você aprenderá sobre os conceitos básicos da programação em Python:
 
@@ -13,7 +13,7 @@ Nesta atividade, você aprenderá sobre os conceitos básicos da programação e
 - **Operações Matemáticas:** Adição (`+`), Subtração (`-`), Multiplicação (`*`), Divisão (`/`)
 - **Desafio Final:** Implementação de uma calculadora simples
 
-### 2️⃣ Conjuntos Numéricos e Manipulação em Python [PDF](https://github.com/Ujeverson/atividadesPythonGTI/blob/main/PDFs/Atividade%20-%20Conjuntos%20Num%C3%A9ricos%20e%20Manipula%C3%A7%C3%A3o%20em%20Python.pdf)
+### 2️⃣ Conjuntos Numéricos e Manipulação em Python
 
 Aqui exploramos os conjuntos numéricos e como manipulá-los utilizando Python:
 
